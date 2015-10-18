@@ -1,0 +1,53 @@
+body {
+	padding-top:50px;
+	padding-bottom:20px;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 400
+	/**font-family: font-family: 'Roboto', sans-serif;**/
+}
+
+img.profilePhoto{
+	height:150px;
+	width:150px;
+}
+
+p.title{
+	font-family: 'Raleway', sans-serif;
+	font-weight: 700;
+}
+
+p.media-heading{
+	font-family: 'Raleway', sans-serif;
+	font-weight: 400;
+}
+
+p.small{
+	font-family: 'Raleway', sans-serif;
+	font-weight: 300;
+}
+
+div {
+
+margin-top: 10px;
+
+}
+
+div.paper {
+
+margin-top: 20px;
+margin-bottom: 20px;
+
+}
+
+div.row {
+
+margin-top: 40px;
+margin-bottom: 40px;
+
+}
+
+span.boldspan{
+	font-family: 'Raleway', sans-serif;
+	font-weight: 600;
+}
+
